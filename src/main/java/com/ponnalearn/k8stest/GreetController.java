@@ -9,7 +9,7 @@ public class GreetController {
 	@RequestMapping("/hello")
 	public String sayHello() {
 		
-		return " Hello .. All The best for your Kubernetes learning";
+		return " Hello .. All The best for your Kubernetes learning Using GIT";
 	}
 	
 
